@@ -50,7 +50,7 @@ int y0_bird = 0;
 void setup() {
   //fullScreen();
   size(1000, 600);
-  background = loadImage("background3.png");
+  background = loadImage("background.png");
   sky = loadImage("gradient.png");
   streetLights = loadImage("lightsBG.png");
   birds_img = loadImage("birds.gif");
